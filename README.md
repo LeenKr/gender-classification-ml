@@ -1,4 +1,4 @@
-# Gender Classification – Machine Learning Project
+# Gender Classification - Machine Learning Project
 
 ## Overview
 This project implements a **machine learning model for gender classification** as part of an **Artificial Intelligence course**.
